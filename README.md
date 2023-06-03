@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1>📚 Обо мне:</h1>
+<h3>👋 Привет, меня зовут Влад.</h3>
 
-<!--
-**pr1memur/pr1memur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Я начинающий веб разработчик. Был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык C#, Python, но больше всего меня зацепила веб разработка!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Социальные сети:
+
+### 🛠 Инструменты:
+
+![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+### ⚙️ GitHub статистика:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flemixcodes&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flemixcodes&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flemixcodes&theme=tokyonight)
