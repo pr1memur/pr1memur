@@ -6,6 +6,12 @@
 
 ### 🤝 Социальные сети:
 
+  <div id="badges">
+    <a href="https://vk.com/deatxhdder" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
+  </div>
+
 ### 🛠 Инструменты:
 
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
