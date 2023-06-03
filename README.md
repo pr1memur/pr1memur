@@ -7,7 +7,7 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://vk.com/deatxhdder" target="_blank">
+    <a href="https://vk.com/deathxdder" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
