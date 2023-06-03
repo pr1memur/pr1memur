@@ -18,6 +18,6 @@
 
 ### ⚙️ GitHub статистика:
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flemixcodes&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=flemixcodes&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=flemixcodes&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pr1memur&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pr1memur&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pr1memur&theme=tokyonight)
